@@ -1,0 +1,11 @@
+h2, p
+{
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: pink;
+  text-align: center;
+}
+
+html
+{
+  background-color: black;
+}
